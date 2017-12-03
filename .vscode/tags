@@ -1,0 +1,19 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BubbleSort	../Chapter 1/BubbleSort.py	/^class BubbleSort:$/;"	kind:class	line:1
+BubbleSort.py	../Chapter 1/BubbleSort.py	1;"	kind:file	line:1
+SelectionSort	../Chapter 1/SelectionSort.py	/^class SelectionSort:$/;"	kind:class	line:1
+SelectionSort.py	../Chapter 1/SelectionSort.py	1;"	kind:file	line:1
+Solution	../Quests/find_in_matrix.py	/^class Solution:$/;"	kind:class	line:9
+ThreeColor.py	../Chapter 1/ThreeColor.py	1;"	kind:file	line:1
+TreePrinter	../1/TreePrinter.py	/^class TreePrinter:$/;"	kind:class	line:8
+TreePrinter.py	../1/TreePrinter.py	1;"	kind:file	line:1
+bubbleSort	../Chapter 1/BubbleSort.py	/^    def bubbleSort(self, A, n):$/;"	kind:member	line:2
+find	../Quests/find_in_matrix.py	/^    def find(self, target, array):$/;"	kind:member	line:10
+find_in_matrix.py	../Quests/find_in_matrix.py	1;"	kind:file	line:1
+printTree	../1/TreePrinter.py	/^    def printTree(self, root):$/;"	kind:member	line:9
+selectionSort	../Chapter 1/SelectionSort.py	/^    def selectionSort(self, A, n):$/;"	kind:member	line:2
